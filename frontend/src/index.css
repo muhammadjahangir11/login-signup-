@@ -1,0 +1,19 @@
+/* Basic global styles */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: #cbd5e1;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
